@@ -92,6 +92,7 @@ trees
 -   instead of what we can do, we will push to remote branch and not remote main
 -   pull request is submitted to push to remote main
 -   remote branches are just there temporary
+-   code to delete branch "git branch -d "branch name"
 
 
 Matrix indexing
@@ -111,5 +112,5 @@ fish_size[, 2]
 #change
 ```
 
-
+change
 
